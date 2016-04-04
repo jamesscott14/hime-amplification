@@ -1,0 +1,225 @@
+body {
+	background-color: #fcf5cb;
+	font-family: 'Denk One', sans-serif;
+}
+
+
+/******* Navigation ******/
+
+
+.nav-row {
+/*	border: pink solid 2px;
+*/	width:100%;
+	height: 100px;
+}
+
+.navigation {
+	display: inline;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.nav-bar, a {
+	color: #000;
+	text-decoration: none;
+	text-align: center;
+	font-family: 'Denk One', sans-serif;
+	font-size: 20px;
+	margin: 0 10px;
+}
+
+
+.nav-btn {
+	display: inline;
+	list-style-type: none;
+	text-decoration: none;
+	border-bottom: red solid 2px;
+	/*border: yellow solid 2px;*/
+	padding: 4px;
+	margin: 0 5px;
+
+}
+
+
+/********** Hime Logo **********/
+
+.main {
+	height: 700px;
+}
+
+
+.logo-row {
+	/*border: red solid 2px;*/
+	width: 100%;
+	height: 700px;
+}
+
+.hime-logo {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 100%;
+	box-shadow: 2px 3px 8px 8px black;
+}
+
+
+
+
+/****** Second-Row ******/
+
+.second-row {
+	/*border: red solid 2px;*/
+	height: 600px;
+}
+
+.second-row h1 {
+	font-size: 30px;
+	letter-spacing: .07em;
+	text-align: center;
+	margin-top: 100px;
+	margin-left: 10%;
+	margin-right:10%;
+/*	border: red solid 2px;
+*/}
+
+.second-row p {
+	color: #666;
+	font-size: 24px;
+	display: inline-block;
+	line-height: 1.5em;
+	letter-spacing: .05em;
+	text-indent: 6px;
+	text-align: center;
+	margin-top: 80px;
+	margin-bottom: 80px;
+	margin-left: 10%;
+	margin-right: 10%;
+	padding: 20px;
+	border: orange solid 2px;
+}
+
+.amp-img {
+	display: block;
+	border-radius: 2%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+/******** Row with Two Amps **********/
+
+
+.experience-row {
+/*	border:blue solid 2px;
+*/	margin-top: 20px;
+	margin-left:20%;
+	margin-right: 20%;
+}
+
+
+.experience-row h2 {
+	color: #666;
+	font-size: 24px;
+	font-weight: 200;
+	line-height: 2em;
+	display: block;
+	text-align: center;
+	margin: 20px 0;
+/*	border: blue solid 2px;
+*/
+}
+
+
+.second-amp-row {
+	width:100%;
+	height: 700px;
+	margin-top: 80px;
+}
+
+.amp-img-1 {
+	display: block;
+	border-radius: 5px;
+	margin-top: 80px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.third-amp-row {
+	width:100%;
+	height: 700px;
+/*	border: blue solid 2px;
+*/}
+
+.amp-img-2 {
+	display: block;
+	border-radius: 5px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+hr {
+	width: 25%;
+}
+
+
+
+
+/*********** Contact Info *************/
+
+
+.contact-row {
+	height: 600px;
+	width:100%;
+/*	border:red solid 2px;
+*/}
+
+
+.map {
+	margin-left: 5%;
+	float: left;
+}
+
+.contact-info {
+	float: right;
+	display: block;
+	margin-right: 13%;
+}
+
+.contact-info p { 
+	color: #444;
+	font-size: 20px;
+}
+
+.appointments  {
+	text-decoration: underline;
+
+}
+
+#email:hover{
+	color: red;
+}
+
+
+/*********** Footer *************/
+
+.footer-row {
+	
+}
+
+
+#copyright {
+	color: grey;
+	text-align: center;
+}
+
+
+#footer-link {
+	color: red;
+	font-size: 16px;
+}
+
+	
+
+
